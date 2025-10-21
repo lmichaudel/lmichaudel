@@ -9,6 +9,13 @@ I’m always eager to explore new graphics techniques, engine architecture, and 
 ## Languages
 [![languages](https://skillicons.dev/icons?i=c,cpp,ocaml,cs,py,lua,latex,md)](https://skillicons.dev)
 
+
 ## Tools
 [![languages](https://skillicons.dev/icons?i=git,github,cmake,idea,godot,unity,ansible,apple,arc)](https://skillicons.dev)
 
+## Main projects
+
+![Alcatreize](https://github-readme-stats.vercel.app/api/pin?username=lmichaudel\&repo=alcatreize-godot\&theme=dark\&icon_color=f9f9f9)
+![Mather](https://github-readme-stats.vercel.app/api/pin?username=lmichaudel\&repo=mather\&theme=dark\&icon_color=f9f9f9)
+![Software Renderer](https://github-readme-stats.vercel.app/api/pin?username=lmichaudel\&repo=software-renderer\&theme=dark\&icon_color=f9f9f9)
+![Rtree](https://github-readme-stats.vercel.app/api/pin?username=lmichaudel\&repo=rtree\&theme=dark\&icon_color=f9f9f9)
