@@ -6,16 +6,23 @@ I love writing efficient solutions with limited resources, using low-level langa
 
 I’m always eager to explore new graphics techniques, engine architecture, and efficient systems coding.
 
-## Languages
+## Languages & Tools
 [![languages](https://skillicons.dev/icons?i=c,cpp,ocaml,cs,py,lua,latex,md)](https://skillicons.dev)
 
-
-## Tools
 [![languages](https://skillicons.dev/icons?i=git,github,cmake,idea,godot,unity,ansible,apple,arc)](https://skillicons.dev)
+
 
 ## Main projects
 
-![Alcatreize](https://github-readme-stats.vercel.app/api/pin?username=lmichaudel\&repo=alcatreize-godot\&theme=dark\&icon_color=f9f9f9)
-![Mather](https://github-readme-stats.vercel.app/api/pin?username=lmichaudel\&repo=mather\&theme=dark\&icon_color=f9f9f9)
-![Software Renderer](https://github-readme-stats.vercel.app/api/pin?username=lmichaudel\&repo=software-renderer\&theme=dark\&icon_color=f9f9f9)
-![Rtree](https://github-readme-stats.vercel.app/api/pin?username=lmichaudel\&repo=rtree\&theme=dark\&icon_color=f9f9f9)
+<a href="https://github.com/lmichaudel/alcatreize-godot" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=lmichaudel&repo=alcatreize-godot&theme=dark&icon_color=f9f9f9" />
+</a>
+<a href="https://github.com/lmichaudel/mather" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=lmichaudel&repo=mather&theme=dark&icon_color=f9f9f9" />
+</a>
+<a href="https://github.com/lmichaudel/software-renderer" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=lmichaudel&repo=software-renderer&theme=dark&icon_color=f9f9f9" />
+</a>
+<a href="https://github.com/lmichaudel/rtree" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=lmichaudel&repo=rtree&theme=dark&icon_color=f9f9f9" />
+</a>
